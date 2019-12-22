@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bg.jpg</file>
+        <file>Image/购买.png</file>
+        <file>Image/购买 (1).png</file>
+        <file>Image/添加.png</file>
+        <file>Image/退出.png</file>
+    </qresource>
+</RCC>

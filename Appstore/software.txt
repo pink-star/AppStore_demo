@@ -1,0 +1,7 @@
+Adobe_Photoshop CS5 1 521
+Visual_Studio_Professional 2017 10 700
+Qt_creator 5.13 1 500
+Java 1.8 100 200
+Microsoft_Office 2016 24 150
+Notepad++ 1.28 200 0
+Pycharm 12.28 20 500
